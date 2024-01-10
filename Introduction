@@ -1,0 +1,12 @@
+Introduction to Machine Learning
+Welcome to this 16-week course on classic Machine Learning. Whether you are a beginner or an experienced ML professional looking to brush up, we are happy to have you join us. 
+
+Getting Started with Machine Learning
+
+Before starting with this curriculum, you need to have your computer set up and ready to run notebooks locally.
+
+Configure your machine with these videos. Use the following links to learn how to install Python in your system and setup a text editor for development.
+Learn Python. It's also recommended to have a basic understanding of Python, a programming language useful for data scientists that we use in this course.
+Learn Node.js and JavaScript. We also use JavaScript a few times in this course when building web apps, so you will need to have node and npm installed, as well as Visual Studio Code available for both Python and JavaScript development.
+Create a GitHub account. Since you found us here on GitHub, you might already have an account, but if not, create one and then fork this curriculum to use on your own. (Feel free to give us a star, too 😊)
+Explore Scikit-learn. Familiarize yourself with Scikit-learn, a set of ML libraries that we reference in these lessons.
