@@ -8,10 +8,10 @@ ________________________________________________________________________________
 
 # Getting Started
 
-Step 1 - Install Python on your desktop/laptop. Use this link to install Python [Install Python](https://www.python.org/about/gettingstarted/) and install [Jupyter](https://jupyter.org/install) to work on jupyter notebooks
-Step 2 - Learn Python. It's also recommended to have a basic understanding of [Python](https://www.learnpython.org/).
-Step 3 - Create a GitHub account
-Step 4 - Explore [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
+* Step 1 - Install Python on your desktop/laptop. Use this link to install Python [Install Python](https://www.python.org/about/gettingstarted/) and install [Jupyter](https://jupyter.org/install) to work on jupyter notebooks
+* Step 2 - Learn Python. It's also recommended to have a basic understanding of [Python](https://www.learnpython.org/).
+* Step 3 - Create a GitHub account
+* Step 4 - Explore [Scikit-learn](https://scikit-learn.org/stable/user_guide.html)
 
 _______________________________________________________________________________________________________________________________________________________________________________________________
 
