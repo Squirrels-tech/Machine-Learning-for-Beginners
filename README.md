@@ -26,6 +26,9 @@ ________________________________________________________________________________
 ![historyofAI](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/assets/20395827/a9f9eaef-8920-4505-b19f-c756eb7ae19d)
 
 
+# Curriculum
+## SQL - [Introduction to SQL](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
+
 
 
 
