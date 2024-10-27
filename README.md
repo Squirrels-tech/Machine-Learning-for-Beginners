@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 
 # Curriculum
-## SQL - [Introduction to SQL](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf)
+## SQL - [Introduction to SQL]([https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL_PART1.pdf](https://github.com/Squirrels-tech/Machine-Learning-for-Beginners/blob/main/SQL/SQL%20GUIDE.pdf))
 
 
 
